@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Hussein, Software Developer & Tutor with focus on Full-Stack Web | Passionate about React/Next.js, PWAs & Node.js</p>
+<p align="left">My name is Hussein, Experienced Software Developer | Proficient in Typescript, Next.js, Nest.js & PWAs.</p>
 
 ###
 
